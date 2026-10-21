@@ -32,7 +32,7 @@ Following are examples.
 
 sdfasdfasdf
 
-```javascript
+```
 ---
 author: "Dave Winer"
 pubDate: "Sun, 31 Mar 2024 16:42:41 GMT"
