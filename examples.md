@@ -1,6 +1,6 @@
 # Examples of Markdown text with YAML frontmatter
 
-How the pieces fit together in our web of Markdown files. 
+How the pieces fit together in our web of Markdown files.  
 
 ### The goal
 
