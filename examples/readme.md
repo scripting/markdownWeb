@@ -80,5 +80,5 @@ The readme.md on this site has some philosophy you might want to read, and if yo
 
 Finally, as a teaser, this is what <a href="screenshots/rendered0.png">Example 0 looks like</a> in our Markdown browser. 
 
-<img src="screenshots/rendered0.png">
+<img src="screenshots/rendered0.png" style="border 1px dotted silver">
 
