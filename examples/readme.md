@@ -30,25 +30,33 @@ A post with two <a href="http://scripting.com/2024/03/22/025201.html?title=vermo
 
 ### Example 4
 
+A titled post with a list of four <a href="http://scripting.com/2024/03/15/015719.html">numbered items</a>. 
+
+Numbered list. -- http://scripting.com/2024/03/15/015719.html
+
 <img src="screenshots/example4.png">
 
 ### Example 5
+
+An untitled post with a <a href="http://scripting.com/2024/01/21.html#a194147">podcast enclosure</a>. Amazing that this makes it out to the front matter, but that's the power of simple standards. We just did what made sense, probably wouldn't have done it if it wasn't really easy. :-)
 
 <img src="screenshots/example5.png">
 
 ### Example 6
 
+First post of a month -- http://scripting.com/2024/03/01/203935.html
+
 <img src="screenshots/example6.png">
 
-### Example 7
-
-<img src="screenshots/example7.png">
-
 ### Example 8
+
+Description and metaImage -- http://scripting.com/2024/03/12/120111.html
 
 <img src="screenshots/example8.png">
 
 ### Example 9
+
+No next. -- https://dave.writersweb.org/2026/10/19/a135144.html
 
 <img src="screenshots/example9.png">
 
