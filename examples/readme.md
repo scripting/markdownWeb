@@ -12,17 +12,19 @@ An untitled <a href="http://scripting.com/2024/03/31.html#a164241">blog post</a>
 
 ### Example 1
 
-A <a href="http://scripting.com/2024/03/05/200550.html">titled blog post</a> from March 5, 2024 about some of my discoveries in creating art with ChatGPT, stuff we call slop today, was a miracle then.
+A <a href="http://scripting.com/2024/03/05/200550.html">titled blog post</a> from March 5, 2024 about some of my discoveries in creating art with ChatGPT.
 
 <img src="screenshots/example1.png">
 
 ### Example 2
 
-An untitled post with a <a href="http://scripting.com/2024/03/31.html#a161730">right-margin image</a>, a Good Humor ice cream truck about an advantage of using an outliner to edit a day's worth of posts. 
+An untitled post with a <a href="http://scripting.com/2024/03/31.html#a161730">right-margin image</a>, a Good Humor ice cream truck. 
 
 <img src="screenshots/example2.png">
 
 ### Example 3
+
+A post with two <a href="http://scripting.com/2024/03/22/025201.html?title=vermont">inline images</a> about driving to Vermont. 
 
 <img src="screenshots/example3.png">
 
