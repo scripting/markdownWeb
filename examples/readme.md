@@ -1,8 +1,6 @@
+# Examples
 
-
-This post has a right margin image from March 12, 2024. It's about a friend who had landed a big job at the NYT with ideas on how they could use AI.  
-
-
+We took 
 
 ### Example 0
 
@@ -48,6 +46,10 @@ An post with a <a href="http://scripting.com/2024/01/21.html#a194147">podcast en
 
 <img src="screenshots/example6.png">
 
+### Example 7
+
+<i>Editor's note: There was an example 7, but we took it out because it didn't add anything to what we already head. </i>
+
 ### Example 8
 
 <a href="http://scripting.com/2024/03/12/120111.html">A bulleted list</a> and values for metaImage and description. Might be useful when displaying the story in a reader app. Think of metaImage as an image that can be displayed across the top of the reader page, as is common in the web.  
@@ -56,7 +58,7 @@ An post with a <a href="http://scripting.com/2024/01/21.html#a194147">podcast en
 
 ### Example 9
 
-No next. -- https://dave.writersweb.org/2026/10/19/a135144.html
+This was the <a href="http://scripting.com/2026/10/22.html#a160031">most recent post</a> on scripting.com when the screen shot was taken. Note that there is a urlPrev value in the YAML text, but no urlNext. 
 
 <img src="screenshots/example9.png">
 
