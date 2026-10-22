@@ -4,7 +4,7 @@
 
 ### Example 0
 
-An untitled <a href="http://scripting.com/2024/03/31.html#a164241">blog post</a> from March 21, 2024, explaining how I had been using OPML to write and archive my blog writing starting in 2017.   
+An untitled <a href="http://scripting.com/2024/03/31.html#a164241">blog post</a> from March 31, 2024, explaining how I had been using OPML to write and archive my blog writing starting in 2017.   
 
 <img src="screenshots/example0.png">
 
@@ -30,25 +30,23 @@ A post with two <a href="http://scripting.com/2024/03/22/025201.html?title=vermo
 
 A titled post with a list of four <a href="http://scripting.com/2024/03/15/015719.html">numbered items</a>. 
 
-Numbered list. -- http://scripting.com/2024/03/15/015719.html
-
 <img src="screenshots/example4.png">
 
 ### Example 5
 
-An post with a <a href="http://scripting.com/2024/01/21.html#a194147">podcast enclosure</a>. Amazing that this makes it out to the front matter, but that's the power of simple standards. We just did what made sense, probably wouldn't have done it if it wasn't really easy. :-)
+A post with a <a href="http://scripting.com/2024/01/21.html#a194147">podcast enclosure</a>. Amazing that this makes it out to the front matter, but that's the power of simple standards. We just did what made sense, probably wouldn't have done it if it wasn't really easy. :-)
 
 <img src="screenshots/example5.png">
 
 ### Example 6
 
-<a href="http://scripting.com/2024/03/01/203935.html">First post</a> of the month, note that it wraps back to the previous month in the urlPrev value. -- 
+<a href="http://scripting.com/2024/03/01/203935.html">First post</a> of the month, note that it wraps back to the previous month in the urlPrev value.  
 
 <img src="screenshots/example6.png">
 
 ### Example 7
 
-<a href="http://scripting.com/2024/03/12/120111.html">A bulleted list</a> and values for metaImage and description. Might be useful when displaying the story in a reader app. Think of metaImage as an image that can be displayed across the top of the reader page, as is common in the web.  
+<a href="http://scripting.com/2024/03/12/120111.html">A bulleted list</a> and a value for description. Might be useful when displaying the story in a reader app. 
 
 <img src="screenshots/example8.png">
 
@@ -60,7 +58,7 @@ This was the <a href="http://scripting.com/2026/10/22.html#a160031">most recent 
 
 ### Notes
 
-To start this project I took the OPML source for Scripting News, publicly archived here, and had Claude write a utility app that converted it to markdown. We iterated over that app, and at the same time built a Markdown Browser, to guide us in getting the parts to fit together. 
+To start this project I took the OPML source for Scripting News, publicly archived <a href="https://github.com/scripting/Scripting-News/tree/master/blog/opml">here</a>, and had Claude write a utility app that converted it to markdown. We iterated over that app, and at the same time built a Markdown Browser, to guide us in getting the parts to fit together. 
 
 We took screen shots of the Markdown for several example posts, hoping to illustrate a range of features. That's what you see on the page above.  
 
@@ -72,7 +70,7 @@ We abide by the <a href="https://this.how/standards/">Rules for standards-makers
 
 I'm not going to release our browser, I want to give others a chance to try out ideas, and get used to working with a fairly large base of posts. According to Claude there are over 16000 posts in the period between May 2017 and October 2026. I thought it was a typo and he meant 1600. ;-)
 
-The source attribute provides the address of the feed it came from. When displaying a post you might want to refer to some info from the feed, such as its title, link, icon.
+The <i>source</i> attribute (or front matter field) provides the address of the feed it came from. When displaying a post you might want to refer to some info from the feed, such as its title, link, icon.
 
 The readme.md on this site has some philosophy you might want to read, and if you have questions or comments, use the Issues section. 
 
