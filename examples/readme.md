@@ -1,12 +1,12 @@
 # Examples
 
-<a href="https://github.com/scripting/markdownWeb/blob/main/examples/readme.md#notes">Notes</a> are at the end of the page. 
+For each example, we show the Markdown text in a box and link to the HTML version of the post. 
+
+Notes at the <a href="screenshots/rendered0.png">end</a>. 
 
 ### Example 0
 
 An untitled <a href="http://scripting.com/2024/03/31.html#a164241">blog post</a> from March 31, 2024, explaining how I had been using OPML to write and archive my blog writing starting in 2017.   
-
-When rendered, this is what that Markdown text <a href="screenshots/rendered0.png">generates</a>.
 
 <img src="screenshots/example0.png">
 
@@ -75,4 +75,8 @@ I'm not going to release our browser, I want to give others a chance to try out 
 The <i>source</i> attribute (or front matter field) provides the address of the feed it came from. When displaying a post you might want to refer to some info from the feed, such as its title, link, icon.
 
 The readme.md on this site has some philosophy you might want to read, and if you have questions or comments, use the Issues section. 
+
+### Teaser
+
+Finally, as a teaser, this is what <a href="screenshots/rendered0.png">Example 0 looks like</a> in our Markdown browser. 
 
