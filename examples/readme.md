@@ -70,8 +70,6 @@ Because I was doing all this work with Claude we were able to ask about prior ar
 
 We abide by the <a href="https://this.how/standards/">Rules for standards-makers</a>. We want to interop with everyone we can. Examples include: Jekyll, Hugo, Eleventy, Astro and Obsidian.
 
-I'm not going to release our browser, I want to give others a chance to try out ideas, and get used to working with a fairly large base of posts. According to Claude there are over 16000 posts in the period between May 2017 and October 2026. I thought it was a typo and he meant 1600. ;-)
-
 The <i>source</i> attribute (or front matter field) provides the address of the feed it came from. When displaying a post you might want to refer to some info from the feed, such as its title, link, icon.
 
 The full <a href="archive.zip">archive</a> of scripting.com between May 2017 and October 2026 is available as a download, in Markdown, these are the same files we're using on our test server. 

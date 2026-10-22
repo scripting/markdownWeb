@@ -1,6 +1,6 @@
 # The Markdown web
 
-Getting started with a simpler, safer and more efficient web for writers and readers, using the philosophy of podcasting. 
+Getting started with a simpler, safer and more efficient web for writers and readers. 
 
 ### Writers and readers
 
