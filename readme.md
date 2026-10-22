@@ -1,5 +1,3 @@
-Dave Winer, 10/22/2026
-
 # Markdown web
 
 Getting started with a simpler web that's more capable, safer and more efficient, for writers and readers, using the philosophy of podcasting. 
@@ -26,16 +24,6 @@ The YAML vocabulary we use comes from RSS 2.0. We've found that there's a very g
 
 Following are examples. 
 
-### Where we're at
-
-We've been working on software that implements this, it's not ready to be deployed yet, but I wanted to share the basic principles of the project, provide examples that work, and field comments and questions. 
-
-It would be especially interesting to use this framework for a "social web" application like Twitter, Mastodon or Bluesky -- text is text. Markdown defines a very good format for text on the web without all the dangerous stuff, and the front matter metadata we define can take care of the rest. Imagine a social web where you can use whatever writing tool you like and for reading you can tweak the disply for maximum comfort and ease of use. 
-
-We've made it work for blogging, but the same tech could be used for slides, code, whatever you can think of. 
-
-And all the while writers can still use whatever tools they want, and readers get text that is readable in ways they like to read.  
-
 ### Historic context
 
 CSS was introduced to the web in 
@@ -58,6 +46,16 @@ I had already been playing around with ideas for a non-HTML web browser, I got e
 
 What I hope to do by starting this repo and sharing my progress is to get something that moves quickly. Interop is what it's about. And getting back to the original idea of the web as a place for writing and reading. 
 
+### Where we're at
+
+We've been working on software that implements this, it's not ready to be deployed yet, but I wanted to share the basic principles of the project, provide examples that work, and field comments and questions. 
+
+It would be especially interesting to use this framework for a "social web" application like Twitter, Mastodon or Bluesky -- text is text. Markdown defines a very good format for text on the web without all the dangerous stuff, and the front matter metadata we define can take care of the rest. Imagine a social web where you can use whatever writing tool you like and for reading you can tweak the disply for maximum comfort and ease of use. 
+
+We've made it work for blogging, but the same tech could be used for slides, code, whatever you can think of. 
+
+And all the while writers can still use whatever tools they want, and readers get text that is readable in ways they like to read.  
+
 ### Notes
 
 Obviously we're going to make this work extremely well with RSS 2.0 and OPML. I also love WebSockets, so expect some of that as well. 
@@ -67,4 +65,6 @@ Obviously we're going to make this work extremely well with RSS 2.0 and OPML. I 
 To get the process rolling, I've prepared 10 example documents for you to consider. 
 
 They are all the Markdown versions of posts that appeared on Scripting News sometime between May 2017 and October 2026.
+
+Dave Winer, 10/22/2026
 
