@@ -74,11 +74,7 @@ I'm not going to release our browser, I want to give others a chance to try out 
 
 The <i>source</i> attribute (or front matter field) provides the address of the feed it came from. When displaying a post you might want to refer to some info from the feed, such as its title, link, icon.
 
-The readme.md on this site has some philosophy you might want to read, and if you have questions or comments, use the Issues section. 
-
-### Teaser
+The <a href="https://github.com/scripting/markdownWeb/blob/main/readme.md">readme.md</a> on this site has some philosophy you might want to read, and if you have questions or comments, use the <a href="https://github.com/scripting/markdownWeb/issues/1">Issues</a> section. 
 
 Finally, as a teaser, this is what <a href="screenshots/rendered0.png">Example 0 looks like</a> in our Markdown browser. 
-
-<img src="screenshots/rendered0.png" style="border 1px dotted silver">
 
