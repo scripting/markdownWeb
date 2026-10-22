@@ -1,6 +1,6 @@
-# markdownWeb
+# Markdown web
 
-Getting started with a simpler web that's more capable for writers and readers, safer and more efficient. 
+Getting started with a simpler web that's more capable, safer and more efficient, for writers and readers, . 
 
 ### Writers and readers
 
