@@ -1,8 +1,8 @@
+Dave Winer, 10/22/2026
+
 # Markdown web
 
 Getting started with a simpler web that's more capable, safer and more efficient, for writers and readers, using the philosophy of podcasting. 
-
-Dave Winer, 10/22/2026
 
 ### Writers and readers
 
