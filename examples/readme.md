@@ -1,14 +1,6 @@
 # Examples
 
-To start this project I took the OPML source for Scripting News, publicly archived here, and had Claude write a utility app that converted it to markdown. 
-
-We iterated over that app, and at the same time built a Markdown Browser, to guide us in getting the parts to fit together. 
-
-We took screen shots of the Markdown for several example posts, hoping to illustrate a range of features. 
-
-No documentation yet. Because I was doing all this work with Claude we were able to ask about prior art for all the stuff we're doing. We were guided in the choice of values for the front matter by two sources: Old School which is the HTML rendering app I've been using for my blog since May 2017, and RSS 2.0, which has names for most of the metadata you might use for a post. Not a surprise, same thing happened when I was designing the MetaWeblog API, it turned out we were just transporting RSS 2.0 items. 
-
-I'm not going to release our browser, I want to give others a chance to try out ideas, and get used to working with a fairly large base of posts. According to Claude there are over 16000 posts in the period between May 2017 and October 2026. I thought it was a typo and he meant 1600. ;-)
+<a href="https://github.com/scripting/markdownWeb/blob/main/examples/readme.md#notes">Notes</a> are at the end of the page. 
 
 ### Example 0
 
@@ -67,6 +59,16 @@ This was the <a href="http://scripting.com/2026/10/22.html#a160031">most recent 
 <img src="screenshots/example9.png">
 
 ### Notes
+
+To start this project I took the OPML source for Scripting News, publicly archived here, and had Claude write a utility app that converted it to markdown. 
+
+We iterated over that app, and at the same time built a Markdown Browser, to guide us in getting the parts to fit together. 
+
+We took screen shots of the Markdown for several example posts, hoping to illustrate a range of features. 
+
+No documentation yet. Because I was doing all this work with Claude we were able to ask about prior art for all the stuff we're doing. We were guided in the choice of values for the front matter by two sources: Old School which is the HTML rendering app I've been using for my blog since May 2017, and RSS 2.0, which has names for most of the metadata you might use for a post. Not a surprise, same thing happened when I was designing the MetaWeblog API, it turned out we were just transporting RSS 2.0 items. 
+
+I'm not going to release our browser, I want to give others a chance to try out ideas, and get used to working with a fairly large base of posts. According to Claude there are over 16000 posts in the period between May 2017 and October 2026. I thought it was a typo and he meant 1600. ;-)
 
 The source attribute provides the address of the feed it came from. When displaying a post you might want to refer to some info from the feed, such as its title, link, icon.
 
