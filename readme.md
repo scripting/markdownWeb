@@ -1,6 +1,6 @@
-# Markdown web
+# The Markdown web
 
-Getting started with a simpler web that's more capable, safer and more efficient, for writers and readers, using the philosophy of podcasting. 
+Getting started with a simpler, safer and more efficient web for writers and readers, using the philosophy of podcasting. 
 
 ### Writers and readers
 
@@ -62,7 +62,7 @@ Obviously we're going to make this work extremely well with RSS 2.0 and OPML. I 
 
 ### Examples
 
-To get the process rolling, I've prepared 10 example documents for you to consider. 
+To get the process rolling, I've prepared eight <a href="https://github.com/scripting/markdownWeb/blob/main/examples/readme.md">example Markdown web docs</a> for you to consider. No docs yet.  
 
 They are all the Markdown versions of posts that appeared on Scripting News sometime between May 2017 and October 2026.
 
