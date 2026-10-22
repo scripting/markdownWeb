@@ -8,6 +8,10 @@ An untitled <a href="http://scripting.com/2024/03/31.html#a164241">blog post</a>
 
 <img src="screenshots/example0.png">
 
+When rendered, this is what that Markdown text generates.
+
+<img src="screenshots/rendered0.png">
+
 ### Example 1
 
 A <a href="http://scripting.com/2024/03/05/200550.html">titled blog post</a> from March 5, 2024 about some of my discoveries in creating art with ChatGPT.
