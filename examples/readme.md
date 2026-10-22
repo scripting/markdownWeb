@@ -1,20 +1,24 @@
 
 
+This post has a right margin image from March 12, 2024. It's about a friend who had landed a big job at the NYT with ideas on how they could use AI.  
+
+
+
 ### Example 0
 
-An untitled <a href="http://scripting.com/2024/03/31.html#a164241">blog post</a> from March 21, 2024, explaining how I had been using the OPML format to write and archive my blog writing starting in 2017.  The source attribute provides the address of the feed it came from. When displaying a post you might want to refer to some info from the feed, such as its title, link, icon. 
+An untitled <a href="http://scripting.com/2024/03/31.html#a164241">blog post</a> from March 21, 2024, explaining how I had been using OPML to write and archive my blog writing starting in 2017.  The source attribute provides the address of the feed it came from. When displaying a post you might want to refer to some info from the feed, such as its title, link, icon. 
 
 <img src="screenshots/example0.png">
 
 ### Example 1
 
-A <a href="http://scripting.com/2024/03/05/200550.html">titled blog post</a> from March 5, 2024.
+A <a href="http://scripting.com/2024/03/05/200550.html">titled blog post</a> from March 5, 2024 about some of my discoveries in creating art with ChatGPT, stuff we call slop today, was a miracle then.
 
 <img src="screenshots/example1.png">
 
 ### Example 2
 
-This post has a right margin image. 
+An untitled post with a <a href="http://scripting.com/2024/03/31.html#a161730">right-margin image</a>, a Good Humor ice cream truck about an advantage of using an outliner to edit a day's worth of posts. 
 
 <img src="screenshots/example2.png">
 
