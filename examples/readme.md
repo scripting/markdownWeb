@@ -2,7 +2,7 @@
 
 For each example, we show the Markdown text in a box and link to the HTML version of the post. 
 
-Notes at the <a href="screenshots/rendered0.png">end</a>. 
+Notes at the <a href="https://github.com/scripting/markdownWeb/tree/main/examples#notes">end</a>. 
 
 ### Example 0
 
