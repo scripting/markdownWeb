@@ -6,11 +6,9 @@
 
 An untitled <a href="http://scripting.com/2024/03/31.html#a164241">blog post</a> from March 31, 2024, explaining how I had been using OPML to write and archive my blog writing starting in 2017.   
 
+When rendered, this is what that Markdown text <a href="screenshots/rendered0.png">generates</a>.
+
 <img src="screenshots/example0.png">
-
-When rendered, this is what that Markdown text generates.
-
-<img src="screenshots/rendered0.png">
 
 ### Example 1
 
