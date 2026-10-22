@@ -24,6 +24,12 @@ The YAML vocabulary we use comes from RSS 2.0, including title, author, pubDate,
 
 We've found that there's a very good match between the metadata for feed items and written documents. Not exactly surprising, we keep running into this consistency everywhere we work in the written web. 
 
+### Examples
+
+To get the process rolling, I've prepared nine <a href="https://github.com/scripting/markdownWeb/blob/main/examples/readme.md">example Markdown web docs</a> for you to consider. No docs yet.  
+
+They are all the Markdown versions of posts that appeared on Scripting News sometime between May 2017 and October 2026.
+
 ### Historic context
 
 CSS was introduced to the web in 1996. 
@@ -59,12 +65,4 @@ And all the while writers can still use whatever tools they want, and readers ge
 ### Notes
 
 Obviously we're going to make this work extremely well with RSS 2.0 and OPML. I also love WebSockets, so expect some of that as well. 
-
-### Examples
-
-To get the process rolling, I've prepared nine <a href="https://github.com/scripting/markdownWeb/blob/main/examples/readme.md">example Markdown web docs</a> for you to consider. No docs yet.  
-
-They are all the Markdown versions of posts that appeared on Scripting News sometime between May 2017 and October 2026.
-
-Dave Winer, 10/22/2026
 
