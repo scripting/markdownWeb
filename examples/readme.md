@@ -60,7 +60,7 @@ This was the <a href="http://scripting.com/2026/10/22.html#a160031">most recent 
 
 ### Notes
 
-To start this project I took the OPML source for Scripting News, publicly archived <a href="https://github.com/scripting/markdownWeb/blob/main/examples/scriptingInMarkdown/archive.zip">here</a>, and had Claude write a utility app that converted it to markdown. We iterated over that app, and at the same time built a Markdown Browser, to guide us in getting the parts to fit together. 
+To start this project I took the OPML source for Scripting News, publicly archived <a href="https://github.com/scripting/Scripting-News/tree/master/blog/opml">here</a>, and had Claude write a utility app that converted it to markdown. We iterated over that app, and at the same time built a Markdown Browser, to guide us in getting the parts to fit together. 
 
 We took screen shots of the Markdown for several example posts, hoping to illustrate a range of features. That's what you see on the page above.  
 
@@ -72,7 +72,7 @@ We abide by the <a href="https://this.how/standards/">Rules for standards-makers
 
 The <i>source</i> attribute (or front matter field) provides the address of the feed it came from. When displaying a post you might want to refer to some info from the feed, such as its title, link, icon.
 
-The full <a href="https://github.com/scripting/markdownWeb/blob/main/examples/scriptingInMarkdown/archive.zip">archive</a> of scripting.com between May 2017 and October 2026 is available as a download, in Markdown, these are the same files we're using on our test server. 
+The full <a href="https://github.com/scripting/markdownWeb/raw/refs/heads/main/examples/scriptingInMarkdown/archive.zip">archive</a> of scripting.com between May 2017 and October 2026 is available as a download, in Markdown, these are the same files we're using on our test server. 
 
 The <a href="https://github.com/scripting/markdownWeb/blob/main/readme.md">readme.md</a> on this site has some philosophy you might want to read, and if you have questions or comments, use the <a href="https://github.com/scripting/markdownWeb/issues/1">Issues</a> section. 
 
