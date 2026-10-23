@@ -10,10 +10,6 @@ The goal is to create a simple web that works better for both writers and reader
 
 * Readers have full control over appearance -- e.g. font, size, spacing, colors -- everything having to do with how text is displayed, so there is a consistency with stories written by all authors and that is totally determined by the reader. The software they use may hardcode the style, or offer whatever user-editable options they want. 
 
-CSS and JavaScript are only supported on the client side. Writers have no say in how it looks, beyond simple styling -- bold, italic. And they can't create apps with logic, as would be required by JavaScript or another programming language. This is a medium for reading and writing only.
-
-Any Markdown file will work. But it does not do anything with HTML files. This is the web of Markdown, not HTML. 
-
 ### Markdown and YAML front matter
 
 We define YAML frontmatter that activates features in the browser we've made. If your files have the same concepts as ours, please use the ones we've defined for maximum interop.
@@ -54,15 +50,25 @@ What I hope to do by starting this repo and sharing my progress is to get someth
 
 ### Where we're at
 
-We've been working on software that implements this but wanted to put this out first to see what people think.
+We've been working on software that implements this but wanted to put the <a href="https://github.com/scripting/markdownWeb/blob/main/examples/readme.md">examples</a> out first to see what people think.
 
-It would be especially interesting to use this framework for a "social web" application like Twitter, Mastodon or Bluesky -- text is text. Markdown defines a very good format for text on the web without all the dangerous stuff, and the front matter metadata we define can take care of the rest. Imagine a social web where you can use whatever writing tool you like and for reading you can tweak the disply for maximum comfort and ease of use. 
+It would be especially interesting to use this framework for a "social web" application like Twitter, Mastodon or Bluesky. Then we would have agreement over what text is, and the products could interop. In the indieweb world they call this POSSEE. It would realize its goal. 
+
+Markdown defines a very good format for text on the web without all the dangerous stuff, and the front matter metadata we define can take care of the rest. Imagine a social web where you can use whatever writing tool you like and for reading you can tweak the disply for maximum comfort and ease of use. 
 
 We've made it work for blogging, but the same tech could be used for slides, code, whatever you can think of. 
 
 And all the while writers can still use whatever tools they want, and readers get text that is readable in ways they like to read.  
 
+CSS and JavaScript are only supported on the client side. Writers have no say in how it looks beyond simple styling -- bold, italic. And they can't create apps with logic, as would be implemented in JavaScript or another programming language. This is a medium for reading and writing only. But you are free to add scripting to your client. Some people. would like to have the ability to build new products out of the basic capabilities of the web. 
+
+Any Markdown file will work. But it does not do anything with HTML files. This is the web of Markdown, not HTML. 
+
 ### Notes
 
-Obviously we're going to make this work extremely well with RSS 2.0 and OPML. I also love WebSockets, so expect some of that as well. 
+For more context see <a href="https://textcasting.org/">textcasting.org</a>.
+
+Obviously we're going to make this work extremely well with RSS 2.0 and OPML. 
+
+I also love WebSockets, so expect some of that as well. 
 
