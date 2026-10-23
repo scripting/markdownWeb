@@ -52,15 +52,15 @@ What I hope to do by starting this repo and sharing my progress is to get someth
 
 We've been working on software that implements this but wanted to put the <a href="https://github.com/scripting/markdownWeb/blob/main/examples/readme.md">examples</a> out first to see what people think.
 
-It would be especially interesting to use this framework for a "social web" application like Twitter, Mastodon or Bluesky. Then we would have agreement over what text is, and the products could interop. In the indieweb world they call this POSSEE. It would realize its goal. 
+It would be especially interesting to use this framework for a "social web" application like Twitter, Mastodon or Bluesky. Then we would have agreement over what text is, and the products could interop. In the indieweb world they call this POSSE. It would realize that goal. And allow us to easily write cross-application products.
 
-Markdown defines a very good format for text on the web without all the dangerous stuff, and the front matter metadata we define can take care of the rest. Imagine a social web where you can use whatever writing tool you like and for reading you can tweak the disply for maximum comfort and ease of use. 
+Markdown defines a very good format for text on the web without all the dangerous stuff, and the front matter metadata we define can take care of the rest. Imagine a social web where you can use whatever writing tool you like and for reading you can tweak the display for maximum comfort and ease of use. 
 
 We've made it work for blogging, but the same tech could be used for slides, code, whatever you can think of. 
 
 And all the while writers can still use whatever tools they want, and readers get text that is readable in ways they like to read.  
 
-CSS and JavaScript are only supported on the client side. Writers have no say in how it looks beyond simple styling -- bold, italic. And they can't create apps with logic, as would be implemented in JavaScript or another programming language. This is a medium for reading and writing only. But you are free to add scripting to your client. Some people. would like to have the ability to build new products out of the basic capabilities of the web. 
+CSS and JavaScript are only supported on the client side. Writers have no say in how it looks beyond simple styling -- bold, italic. And they can't create apps with logic, as would be implemented in JavaScript or another programming language. This is a medium for reading and writing only. But you are free to add scripting to your client. Some people would like to have the ability to build new products out of the basic capabilities of the web. 
 
 Any Markdown file will work. But it does not do anything with HTML files. This is the web of Markdown, not HTML. 
 

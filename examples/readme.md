@@ -72,7 +72,7 @@ We abide by the <a href="https://this.how/standards/">Rules for standards-makers
 
 The <i>source</i> attribute (or front matter field) provides the address of the feed it came from. When displaying a post you might want to refer to some info from the feed, such as its title, link, icon.
 
-The full <a href="archive.zip">archive</a> of scripting.com between May 2017 and October 2026 is available as a download, in Markdown, these are the same files we're using on our test server. 
+The full <a href="https://github.com/scripting/markdownWeb/raw/refs/heads/main/examples/archive.zip">archive</a> of scripting.com between May 2017 and October 2026 is available as a download, in Markdown, these are the same files we're using on our test server. 
 
 The <a href="https://github.com/scripting/markdownWeb/blob/main/readme.md">readme.md</a> on this site has some philosophy you might want to read, and if you have questions or comments, use the <a href="https://github.com/scripting/markdownWeb/issues/1">Issues</a> section. 
 
