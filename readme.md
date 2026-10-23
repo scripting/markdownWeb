@@ -28,9 +28,9 @@ They are all the Markdown versions of posts that appeared on Scripting News some
 
 ### Historic context
 
-CSS was introduced to the web in 1996. 
-
 JavaScript was introduced in 1995.
+
+CSS was introduced to the web in 1996. 
 
 The original web as designed by Tim Berners-Lee was just for documents, and the same is true for the Web of Markdown.
 
