@@ -1,26 +1,20 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <opml version="2.0">
 	<head>
-		<title>.well-known/toc.opml</title>
-		<dateModified>Tue, 10 Nov 2026 17:40:04 GMT</dateModified>
-		<expansionState></expansionState>
-		<vertScrollState>1</vertScrollState>
-		<windowTop>300</windowTop>
-		<windowLeft>700</windowLeft>
-		<windowBottom>900</windowBottom>
-		<windowRight>1500</windowRight>
-	</head>
-	<body text=".well-known/toc.opml">
-		<outline text="markdownWeb">
-			<outline text="readme.md" />
-			<outline text="examples">
-				<outline text="readme.md" />
-				<outline text="screenshots (11 pictures)" />
-				<outline text="scriptingInMarkdown">
-					<outline text="archive.zip" />
-					<outline text="archive (2017 through 2026, about 16,900 pages)" />
+		<title>markdownWeb</title>
+		<dateModified>Tue, 10 Nov 2026 17:20:00 GMT</dateModified>
+		</head>
+	<body>
+		<outline text="markdownWeb" type="link" url="https://repo1.bonbonweb.org/">
+			<outline text="readme.md" type="link" url="https://repo1.bonbonweb.org/readme.md" />
+			<outline text="examples" type="link" url="https://repo1.bonbonweb.org/examples/">
+				<outline text="readme.md" type="link" url="https://repo1.bonbonweb.org/examples/readme.md" />
+				<outline text="screenshots (11 pictures)" type="link" url="https://repo1.bonbonweb.org/examples/screenshots/" />
+				<outline text="scriptingInMarkdown" type="link" url="https://repo1.bonbonweb.org/examples/scriptingInMarkdown/">
+					<outline text="archive.zip" type="link" url="https://repo1.bonbonweb.org/examples/scriptingInMarkdown/archive.zip" />
+					<outline text="archive (2017 through 2026, about 16,900 pages)" type="link" url="https://repo1.bonbonweb.org/examples/scriptingInMarkdown/archive/" />
+					</outline>
 				</outline>
 			</outline>
-		</outline>
-	</body>
-</opml>
+		</body>
+	</opml>
