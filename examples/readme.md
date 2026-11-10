@@ -8,7 +8,7 @@ Notes at the <a href="https://github.com/scripting/markdownWeb/tree/main/example
 
 An untitled <a href="http://scripting.com/2024/03/31.html#a164241">blog post</a> from March 31, 2024, explaining how I had been using OPML to write and archive my blog writing starting in 2017.   
 
-<img src="screenshots/example0.png">
+![](screenshots/example0.png)
 
 ### Example 1
 

@@ -5,27 +5,25 @@
 		<dateModified>Tue, 10 Nov 2026 17:20:00 GMT</dateModified>
 		</head>
 	<body>
-		<outline text="markdownWeb" type="link" url="https://repo1.bonbonweb.org/">
-			<outline text="readme.md" type="link" url="https://repo1.bonbonweb.org/readme.md" />
-			<outline text="examples" type="link" url="https://repo1.bonbonweb.org/examples/">
-				<outline text="readme.md" type="link" url="https://repo1.bonbonweb.org/examples/readme.md" />
-				<outline text="screenshots (11 pictures)" type="link" url="https://repo1.bonbonweb.org/examples/screenshots/">
-					<outline text="example0.png" type="link" url="https://repo1.bonbonweb.org/examples/screenshots/example0.png" />
-					<outline text="example1.png" type="link" url="https://repo1.bonbonweb.org/examples/screenshots/example1.png" />
-					<outline text="example2.png" type="link" url="https://repo1.bonbonweb.org/examples/screenshots/example2.png" />
-					<outline text="example3.png" type="link" url="https://repo1.bonbonweb.org/examples/screenshots/example3.png" />
-					<outline text="example4.png" type="link" url="https://repo1.bonbonweb.org/examples/screenshots/example4.png" />
-					<outline text="example5.png" type="link" url="https://repo1.bonbonweb.org/examples/screenshots/example5.png" />
-					<outline text="example6.png" type="link" url="https://repo1.bonbonweb.org/examples/screenshots/example6.png" />
-					<outline text="example7.png" type="link" url="https://repo1.bonbonweb.org/examples/screenshots/example7.png" />
-					<outline text="example8.png" type="link" url="https://repo1.bonbonweb.org/examples/screenshots/example8.png" />
-					<outline text="example9.png" type="link" url="https://repo1.bonbonweb.org/examples/screenshots/example9.png" />
-					<outline text="rendered0.png" type="link" url="https://repo1.bonbonweb.org/examples/screenshots/rendered0.png" />
-					</outline>
-				<outline text="scriptingInMarkdown" type="link" url="https://repo1.bonbonweb.org/examples/scriptingInMarkdown/">
-					<outline text="archive.zip" type="link" url="https://repo1.bonbonweb.org/examples/scriptingInMarkdown/archive.zip" />
-					<outline text="archive (2017 through 2026, about 16,900 pages)" type="link" url="https://repo1.bonbonweb.org/examples/scriptingInMarkdown/archive/" />
-					</outline>
+		<outline text="readme.md" type="link" url="https://repo1.bonbonweb.org/readme.md" />
+		<outline text="examples" type="link" url="https://repo1.bonbonweb.org/examples/">
+			<outline text="readme.md" type="link" url="https://repo1.bonbonweb.org/examples/readme.md" />
+			<outline text="screenshots (11 pictures)" type="link" url="https://repo1.bonbonweb.org/examples/screenshots/">
+				<outline text="example0.png" type="link" url="https://repo1.bonbonweb.org/examples/screenshots/example0.png" />
+				<outline text="example1.png" type="link" url="https://repo1.bonbonweb.org/examples/screenshots/example1.png" />
+				<outline text="example2.png" type="link" url="https://repo1.bonbonweb.org/examples/screenshots/example2.png" />
+				<outline text="example3.png" type="link" url="https://repo1.bonbonweb.org/examples/screenshots/example3.png" />
+				<outline text="example4.png" type="link" url="https://repo1.bonbonweb.org/examples/screenshots/example4.png" />
+				<outline text="example5.png" type="link" url="https://repo1.bonbonweb.org/examples/screenshots/example5.png" />
+				<outline text="example6.png" type="link" url="https://repo1.bonbonweb.org/examples/screenshots/example6.png" />
+				<outline text="example7.png" type="link" url="https://repo1.bonbonweb.org/examples/screenshots/example7.png" />
+				<outline text="example8.png" type="link" url="https://repo1.bonbonweb.org/examples/screenshots/example8.png" />
+				<outline text="example9.png" type="link" url="https://repo1.bonbonweb.org/examples/screenshots/example9.png" />
+				<outline text="rendered0.png" type="link" url="https://repo1.bonbonweb.org/examples/screenshots/rendered0.png" />
+				</outline>
+			<outline text="scriptingInMarkdown" type="link" url="https://repo1.bonbonweb.org/examples/scriptingInMarkdown/">
+				<outline text="archive.zip" type="link" url="https://repo1.bonbonweb.org/examples/scriptingInMarkdown/archive.zip" />
+				<outline text="archive (2017 through 2026, about 16,900 pages)" type="link" url="https://repo1.bonbonweb.org/examples/scriptingInMarkdown/archive/" />
 				</outline>
 			</outline>
 		</body>
